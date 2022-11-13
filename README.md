@@ -36,8 +36,7 @@ Por defecto, este collab tiene el usuario y la clave del estudiante que desarrol
 
 ## Videos
 
-```
 Link: https://youtu.be/4p13y_ZzSXs
 
-[![Video de Presentacion Final](https://img.youtube.com/vi/4p13y_ZzSXs/0.jpg)](https://www.youtube.com/watch?v=4p13y_ZzSXs)
+[![Video de Presentacion Final](https://img.youtube.com/vi/4p13y_ZzSXs/0.jpg)](https://www.youtube.com/watch?v=4p13y_ZzSXs)Xs)
 ```
